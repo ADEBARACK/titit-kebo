@@ -1,0 +1,2 @@
+#IP VPS #VPN  #PROXY URL  #MULTIPLE SRIZ (BEST 0, 3 or 2 MULTIPLE) (untuk arm 16 thread every dif 2048 per month = 888GB, dif 1024 = 1776GB)
+20.212.185.1  https://github.com/Rickyose/skripburu2/blob/main/PKT/mullvad3/mullvad_openvpn_linux_all_all.zip http://srizbi.00002.config.pktdigger.com  0
